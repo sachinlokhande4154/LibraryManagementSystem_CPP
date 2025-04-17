@@ -1,0 +1,20 @@
+﻿  LibrarySystem.cpp
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(22,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(36,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(50,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(60,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(67,17): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(67,17): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(84,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(96,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(111,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(117,13): warning C4566: character represented by universal-character-name '\U0001F4DA' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(131,13): warning C4566: character represented by universal-character-name '\U0001F4D5' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(147,17): warning C4566: character represented by universal-character-name '\U0001F4D8' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibrarySystem.cpp(169,45): warning C4566: character represented by universal-character-name '\U0001F44B' cannot be represented in the current code page (1252)
+  main.cpp
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\main.cpp(9,17): warning C4566: character represented by universal-character-name '\U0001F4DA' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\main.cpp(45,21): warning C4566: character represented by universal-character-name '\U0001F44B' cannot be represented in the current code page (1252)
+C:\Users\Lenovo\source\repos\LibraryManagementSystem\LibraryManagementSystem\main.cpp(50,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Generating Code...
+  LibraryManagementSystem.vcxproj -> C:\Users\Lenovo\source\repos\LibraryManagementSystem\Debug\LibraryManagementSystem.exe
