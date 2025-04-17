@@ -17,3 +17,11 @@ A command-line based C++ project using advanced Data Structures (DSA) and Object
 - Git & GitHub for version control
 
 ## 🗂️ Project Structure
+LibraryManagementSystem/
+├── main.cpp                     # Menu + main()
+├── LibrarySystem.h              # Header: Structs, Classes
+├── LibrarySystem.cpp            # Class definitions
+├── README.md                    # GitHub-ready
+└── Library_Project_Report.pdf   # Project Report
+
+
